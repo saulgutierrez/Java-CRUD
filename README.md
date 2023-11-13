@@ -8,3 +8,5 @@ Technologies used:
 <li>AWT</li>
 <li>Swing</li>
 <li>MySQL</li>
+
+![image](https://github.com/saulgutierrez/Java-CRUD/assets/62368834/74680aac-1990-4610-8bcc-e4202f71d150)
